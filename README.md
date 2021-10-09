@@ -26,9 +26,8 @@ To start the react server run
 npm start
 ```
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=sYl4xG_7a4I" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[Here's a demo of the app.](https://www.youtube.com/watch?v=sYl4xG_7a4I)
+
 
 
 
