@@ -1,4 +1,4 @@
-# DeFi Money Streamnig using Sablier
+# DeFi Money Streaming using Sablier
 
 Sablier allows to stream money using smart contracts. Any ERC20 token can be used to stream. In this particular project, only one ERC20 token is supported and can be minted from the app itself.
 
